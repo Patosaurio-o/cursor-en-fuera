@@ -21,7 +21,8 @@ function cambioImagen(){
   $(this).attr('data-src', img1);
 };
 
-$("img").hover(cambioImagen,cambioImagen);
+$("img").hover(cambioImagen, cambioImagen);
+
 $("img").hover(function(){
   $(this).css('transform', 'scale(1.2)');
 },
