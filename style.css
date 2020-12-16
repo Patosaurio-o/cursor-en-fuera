@@ -1,0 +1,11 @@
+img {
+  width: 300px; 
+  height: 200px;
+  border: 3px solid yellow;
+  box-shadow: yellowgreen  0px 0px 9px 5px;
+}
+
+.fondo {
+  background-image: url(img/thumb-1920-927025.png);
+
+}
